@@ -1,6 +1,6 @@
 # Phénakisticope
 
-Touch-based animation of historic phénakisticope illustrations.
+Touch-based animation of historic phénakisticope illustrations (fun on the iPad).
 
 See https://en.wikipedia.org/wiki/Phenakistiscope
 
