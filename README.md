@@ -6,7 +6,7 @@ See https://en.wikipedia.org/wiki/Phenakistiscope
 
 # Preview
 
-Works in touch capable devices (or emulated with developer tools in desktop browser) only
+Works in touch capable devices or emulated with developer tools in desktop browser
 
 https://rawgit.com/kstenschke/phenakistoscope/master/index.html
 
